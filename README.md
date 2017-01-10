@@ -3,8 +3,8 @@ This is the code repository for [React Design Patterns and Best Practices](https
 ## About the Book
 Taking a complete journey through the most valuable design patterns in React, this book demonstrates how to apply design patterns and best practices in real-life situations, whether that’s for new or already existing projects. It will help you to make your applications more flexible, perform better, and easier to maintain – giving your workflow a huge boost when it comes to speed without reducing quality.
 ##Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter03.
+Also, the code for Chapter 1 and Chapter 2 is not present as these chapters contains basic examples to start with.
 
 
 The code will look like the following:
