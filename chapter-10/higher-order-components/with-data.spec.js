@@ -8,7 +8,7 @@ const List = () => <div />
 
 jest.mock('./get-json', () => {
   const data = 'data'
-  jest.fn(() => ({ then: callback => callback(data) }))
+  return jest.fn(() => ({ then: callback => callback(data) }))
 })
 
 test('passes the props to the component', () => {
