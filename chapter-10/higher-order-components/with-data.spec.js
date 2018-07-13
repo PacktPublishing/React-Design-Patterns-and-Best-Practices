@@ -6,9 +6,10 @@ import getJSON from './get-json'
 const data = 'data'
 const List = () => <div />
 
-jest.mock('./get-json', () => (
-  jest.fn(() => ({ then: callback => callback(data) }))
-))
+jest.mock('./get-json', () => {
+  const data = 'data'
+  return jest.fn(() => ({ then: callback => callback(data) }))
+})
 
 test('passes the props to the component', () => {
   const ListWithGists = withData()(List)
