@@ -30,3 +30,6 @@ We will need a computer with a terminal, a node.js/npm environment, and a browse
 * [React Components](https://www.packtpub.com/web-development/react-components?utm_source=github&utm_medium=repository&utm_campaign=9781785889288)
 
 * [ReactJS Cookbook](https://www.packtpub.com/web-development/reactjs-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783980727)
+
+## Errata 
+ * Page 48 :  **that adds two numbers and doubles the result** _should be_ **that adds two numbers and squares the result**
