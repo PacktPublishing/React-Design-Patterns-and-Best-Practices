@@ -33,7 +33,3 @@ We will need a computer with a terminal, a node.js/npm environment, and a browse
 
 ## Errata 
  * Page 48 :  **that adds two numbers and doubles the result** _should be_ **that adds two numbers and squares the result**
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to download a free PDF copy of this book.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781786464538">https://packt.link/free-ebook/9781786464538 </a> </p>
